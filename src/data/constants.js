@@ -348,7 +348,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Recipe.png?alt=media&token=5afc265e-4bed-4f41-8022-9daa37fe8492",
     tags: ["javascript", "APIs", "HTML", "CSS", "Templating"],
     category: "web app",
-    github: "https://github.com/roushankumark/Recipe_App",
+    //github: "https://github.com/roushankumark/Recipe_App",
     webapp: "https://prtkvs.github.io/Recipe-App/",
     member: [
       {
