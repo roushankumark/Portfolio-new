@@ -185,7 +185,7 @@ export const skills = [
 export const experiences = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQErmENhQVwGag/company-logo_200_200/company-logo_200_200/0/1712369795023?e=1734566400&v=beta&t=KJEal9T2XKFbIko3H7PlUCGHNorLov5TfTrq1iXjG7A",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Apna%20College%20Linkedin%20Logo.jpeg?alt=media&token=5cac3ae7-4bfc-46e9-9381-d4682365b6d1",
     role: "MERN, Full Stack Developer",
     company: "Apna College",
     date: "Sep 2023 - July 2024",
@@ -210,7 +210,7 @@ export const experiences = [
   },
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQErmENhQVwGag/company-logo_200_200/company-logo_200_200/0/1712369795023?e=1734566400&v=beta&t=KJEal9T2XKFbIko3H7PlUCGHNorLov5TfTrq1iXjG7A",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Apna%20College%20Linkedin%20Logo.jpeg?alt=media&token=5cac3ae7-4bfc-46e9-9381-d4682365b6d1",
     role: "DSA With JAVA",
     company: "Apna College",
     date: "May 2024 - Present",
@@ -225,7 +225,7 @@ export const experiences = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEf_NHzN2yVQg/company-logo_200_200/company-logo_200_200/0/1723593046388/udemy_logo?e=1736985600&v=beta&t=Qyk9VN-tGPwlP94_w_YEU_aj9tjilGZuwoViVWq9pbE",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/udemy%20logo%201%20copy.jpg?alt=media&token=501c2700-1e13-49f5-a1bb-79c2709edf22",
     role: "JAVA Programming",
     company: "Udemy",
     date: "March 2024 - Sept 2024",
@@ -285,7 +285,7 @@ export const experiences = [
 export const education = [
   {
     id: 0,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEq8GPHw3xuXg/company-logo_200_200/company-logo_200_200/0/1708605674681/bscollege_danapur_logo?e=1734566400&v=beta&t=Hk345XXNlPZm8tB8tk5ftyPT5r2TTEzrF5yA1UMMEso",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/BS%20College%20Linkedin%20logo.jpeg?alt=media&token=9ce7e4bb-778f-4624-90f4-76d6108f0840",
     school: "Bindeshwar Singh College, Danapur, PATNA",
     date: "July 2023 - Aug 2027",
     grade: "Currently pursuing",
@@ -294,7 +294,7 @@ export const education = [
   },
   {
     id: 1,
-    img: "https://media.licdn.com/dms/image/v2/D560BAQEq8GPHw3xuXg/company-logo_200_200/company-logo_200_200/0/1708605674681/bscollege_danapur_logo?e=1734566400&v=beta&t=Hk345XXNlPZm8tB8tk5ftyPT5r2TTEzrF5yA1UMMEso",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/BS%20College%20Linkedin%20logo.jpeg?alt=media&token=9ce7e4bb-778f-4624-90f4-76d6108f0840",
     school: "Bindeshwar Singh College, Danapur, PATNA",
     date: "Aug 2021 - Feb 2023",
     grade: "2nd",
@@ -303,7 +303,7 @@ export const education = [
   },
   {
     id: 2,
-    img: "https://media.licdn.com/dms/image/v2/C560BAQGT73KkaIO7aw/company-logo_200_200/company-logo_200_200/0/1630660613732/holy_mission_secondary_school_logo?e=1734566400&v=beta&t=_N9FY63phvY65y3La02Z6T9YVhC4_-uancVDPaf1EF0",
+    img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Holy%20Mission%20Logo.jpg?alt=media&token=a8a9c868-0f87-4eb7-a240-9d0147084ac6",
     school: "Holy Mission Secondary School, Khagaul, Patna",
     date: "Apr 2019 - Apr 2021",
     grade: "82.3%",
@@ -353,13 +353,13 @@ export const projects = [
     member: [
       {
         name: "Roushan Kumar",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHIEDr2AP67VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721454427682?e=1734566400&v=beta&t=7mLKlLrt31FCNmtY1N_rba6WX_uPqAYsXOEBqpqIK-c",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Roushan%20Linked%20Img.jpeg?alt=media&token=c5bcea46-90da-457b-995f-a1b3cd77c077",
         linkedin: "https://www.linkedin.com/in/roushankumar-/",
         github: "https://github.com/roushankumark",
       },
       {
         name: "Prateek Verma",
-        img: "https://media.licdn.com/dms/image/v2/D4D03AQE37eIuH6Iuog/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1694675887877?e=1734566400&v=beta&t=FlJC6qMUX8al74IqLPxn0EQiZ7w_Z1S-W0JwT5x92zo",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Parteek%20Linkedin%20Img.jpeg?alt=media&token=53528b52-eec7-44ad-9f3e-f721acbf2d5e",
         linkedin: "https://www.linkedin.com/in/prateekverma0/",
         github: "https://github.com/prtkvs",
       },
@@ -398,7 +398,7 @@ export const projects = [
     member: [
       {
         name: "Roushan Kumar",
-        img: "https://media.licdn.com/dms/image/v2/D5603AQHIEDr2AP67VA/profile-displayphoto-shrink_800_800/profile-displayphoto-shrink_800_800/0/1721454427682?e=1734566400&v=beta&t=7mLKlLrt31FCNmtY1N_rba6WX_uPqAYsXOEBqpqIK-c",
+        img: "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/Roushan%20Linked%20Img.jpeg?alt=media&token=c5bcea46-90da-457b-995f-a1b3cd77c077",
         linkedin: "https://www.linkedin.com/in/roushankumar-/",
         github: "https://github.com/roushankumark",
       },
