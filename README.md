@@ -9,4 +9,5 @@
 ★ Projects: Showcasing various projects like a recipe app and weather app built using APIs, alongside other impactful work.
 ★ Experience: Highlights of my learning journey at GDSC and contributions to team projects.
 ★ Contact: Links to connect with me via email or social media.
+
 🎯 Built with modern web technologies, the site reflects my passion for coding and design while ensuring a user-friendly experience.
