@@ -439,7 +439,7 @@ export const projects = [
   {
     id: 4,
     title: "Gemini Ai",
-    date: "Oct 2024 - Currently Working On it",
+    date: "Oct 2024 - Mar 2025",
     description:
       "Gemini AI is a cutting-edge platform designed to revolutionize the way businesses interact with artificial intelligence. It leverages advanced machine learning models to provide personalized, data-driven insights, helping companies make informed decisions and streamline operations. With a focus on scalability and ease of use, Gemini AI offers tools for automation, predictive analytics, and real-time data processing, empowering businesses to stay ahead in a rapidly evolving digital landscape. Its intuitive interface and powerful algorithms make it an ideal solution for enhancing productivity and driving innovation.",
     image:
@@ -447,7 +447,7 @@ export const projects = [
     tags: ["React Js", "Firebase", "Firestore", "Node JS", "APIs"],
     category: "machine learning",
     github: "https://github.com/roushankumark",
-    webapp: "https://github.com/roushankumark",
+    webapp: "https://roushankumark.github.io/Gemini/",
   },
   {
     id: 5,
