@@ -446,7 +446,7 @@ export const projects = [
       "https://firebasestorage.googleapis.com/v0/b/portfolio-cdc16.appspot.com/o/gemini.png?alt=media&token=37507a6c-3c08-4e48-b821-f749a7dd5ff3",
     tags: ["React Js", "Firebase", "Firestore", "Node JS", "APIs"],
     category: "machine learning",
-    github: "https://github.com/roushankumark",
+    github: "https://github.com/roushankumark/Gemini.git",
     webapp: "https://roushankumark.github.io/Gemini/",
   },
   {
