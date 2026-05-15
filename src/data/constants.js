@@ -399,7 +399,7 @@ export const projects = [
     ],
     category: "web app",
     github: "https://github.com/roushankumark/portfolio",
-    webapp: "https://roushankumark.github.io/portfolio/",
+    webapp: "https://roushankumark.github.io/PortfolioNew/",
   },
   {
     id: 2,
