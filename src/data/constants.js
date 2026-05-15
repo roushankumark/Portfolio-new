@@ -390,7 +390,7 @@ export const projects = [
     description:
       "Designed and developed a personal portfolio website to showcase projects, skills, and experience. Integrated smooth navigation, interactive UI elements, and a contact form.",
     image:
-      "https://res.cloudinary.com/dwl2vvvkw/image/upload/v1778744057/Portfolio/Portfoli2.png",
+      "https://res.cloudinary.com/dwl2vvvkw/image/upload/v1778848589/Portfolio_New_iqgmkw.png",
     tags: [
       "avascript",
       "HTML",
