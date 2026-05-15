@@ -392,7 +392,7 @@ export const projects = [
     image:
       "https://res.cloudinary.com/dwl2vvvkw/image/upload/v1778848589/Portfolio_New_iqgmkw.png",
     tags: [
-      "avascript",
+      "Javascript",
       "HTML",
       "CSS",
       "Cloudinary Storge",
